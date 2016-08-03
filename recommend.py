@@ -56,6 +56,7 @@ def collect_user_ratings(db_conn, user_id):
 def add_new_user():
     """ Add new user to database
     """
+    rsdbc = RSDBConnection()
     user = raw_input("What's your name? ")
     user_id = rsdbc.add_user(user)
     while not user_id:
@@ -64,10 +65,13 @@ def add_new_user():
         user_id = rsdbc.add_user(user)
     ratings = collect_user_ratings(rsdbc, user_id)
     rsdbc.insert_user_ratings(user_id, ratings)
+    rsdbc.finalize()
 
-def generate_individual_recommendation(user_id):
+def generate_individual_recommendation(user_name):
     """Generate recommendation for single user
     """
+    rsdbc = RSDBConnection()
+    user_id = rsdbc.get_user_id(user_name)
     data = download_data(rsdbc)
     recommender = build_recommender(data)
     print "Recommending items..."
@@ -83,8 +87,6 @@ def generate_individual_recommendation(user_id):
 def main():
     """Do the stuff
     """
-    rsdbc = RSDBConnection()
-
     menu = {}
     menu['0'] = 'Add new user'
     menu['1'] = 'Add ratings for games'
@@ -98,19 +100,20 @@ def main():
         for entry in options:
             print entry, menu[entry]
 
-        selection = raw_input("Please select: \n")
+        selection = raw_input("Please select: ")
         if selection == '0':
             print '0'
             add_new_user()
         elif selection == '1':
             print '1'
         elif selection == '2':
-            user_id = raw_input("Give user name for counting recommendation ")
-            recommendation =generate_individual_recommendation(user_id)
+            user_name = raw_input("Give user name for counting recommendation ")
+            recommendation =generate_individual_recommendation(user_name)
             print '2'
         elif selection == '3':
             print '3'
         elif selection == '4':
+            print '\n\n\nBye!'
             break
         else:
             print "Unknown option selected!\n"

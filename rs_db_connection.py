@@ -185,7 +185,7 @@ class RSDBConnection:
                     .find("usersrated").text == '0'):
                 return False
             for name in game.findall("name"):
-                if name.find("primary"):
+                if name.get("primary")=="true":
                     primary_name = name.text
             if not primary_name:
                 primary_name = game.find("name").text
@@ -328,6 +328,12 @@ class RSDBConnection:
         for data in self.cursor:
             result[data[0]][data[1]] = data[2]
         return result
+
+    def get_user_id(self, user_name):
+         self.cursor.execute(
+            "select id from users where name = %s",
+            (user_name,))
+         return [item[0] for item in self.cursor][0]
 
     def add_user(self, user_name):
         """Try to add user with given name.
