@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="127" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse" pubdate="Tue, 05 Jan 2016 09:05:58 +0000">
+		<item objecttype="thing" objectid="68448" subtype="boardgame" collid="15452832">
+	<name sortindex="1">7 Wonders</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic860217.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic860217_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="7"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="48549" >
+				<rating value="7">			<usersrated value="39256" />			<average value="7.86176" />
+			<bayesaverage value="7.78267" />			<stddev value="1.26857" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-03-10 06:31:35" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="4047" subtype="boardgame" collid="5475246">
+	<name sortindex="1">Across 5 Aprils</name>
+		<yearpublished>1992</yearpublished>			<image>//cf.geekdo-images.com/images/pic292729.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic292729_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="719" >
+				<rating value="7.5">			<usersrated value="377" />			<average value="6.97203" />
+			<bayesaverage value="5.99357" />			<stddev value="1.40129" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 04:37:18" />
+	<numplays>0</numplays>			<comment>An interesting wargame with simple rules and dynamic mechanics. It includes five different battles with varied situations, size and duration.
+Here is my review: http://boardgamegeek.com/thread/1066567/review-of-across-five-aprils</comment>				</item>
+		<item objecttype="thing" objectid="27848" subtype="boardgame" collid="8159299">
+	<name sortindex="1">Age of Conan: The Strategy Board Game</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic450412.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic450412_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="3388" >
+				<rating value="8">			<usersrated value="1928" />			<average value="6.69942" />
+			<bayesaverage value="6.33778" />			<stddev value="1.50494" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-06 08:34:46" />
+	<numplays>0</numplays>			<comment>A good and enjoyable game. Conan is actually a supporting actor, but there are some clever mechanics and, above all, the game is fun!
+Aquí está mi reseña en español: http://boardgamegeek.com/thread/394691/la-era-de-conan-resena-en-espanol</comment>				</item>
+		<item objecttype="thing" objectid="8490" subtype="boardgame" collid="20037007">
+	<name sortindex="1">Age of Napoleon</name>
+		<yearpublished>2003</yearpublished>			<image>//cf.geekdo-images.com/images/pic1248514.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1248514_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="1981" >
+				<rating value="6">			<usersrated value="965" />			<average value="6.89475" />
+			<bayesaverage value="6.24204" />			<stddev value="1.64185" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-14 05:45:22" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="3044" subtype="boardgame" collid="5475247">
+	<name sortindex="1">Air Assault On Crete/Invasion of Malta: 1942</name>
+		<yearpublished>1977</yearpublished>			<image>//cf.geekdo-images.com/images/pic243417.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic243417_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="1134" >
+				<rating value="8">			<usersrated value="379" />			<average value="6.28826" />
+			<bayesaverage value="5.74897" />			<stddev value="1.31876" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 04:44:17" />
+	<numplays>0</numplays>			<comment>I would consider this a classic. A wargame based on the traditional &quot;hex &amp; counter&quot; system, well adapted to the battle it simulates, including several specific rules to add flavor. The bonus scenario, Malta 1942, is a real gem!
+Accessible rules and reasonable game lenght.</comment>				</item>
+		<item objecttype="thing" objectid="494" subtype="boardgame" collid="11610440">
+	<name sortindex="1">Ave Caesar</name>
+		<yearpublished>1989</yearpublished>			<image>//cf.geekdo-images.com/images/pic125581.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic125581_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="3341" >
+				<rating value="2">			<usersrated value="3534" />			<average value="6.64625" />
+			<bayesaverage value="6.44123" />			<stddev value="1.37969" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-15 11:03:46" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="3955" subtype="boardgame" collid="11588854">
+	<name sortindex="1">BANG!</name>
+		<yearpublished>2002</yearpublished>			<image>//cf.geekdo-images.com/images/pic1170986.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1170986_t.jpg</thumbnail>
+		<stats minplayers="4"																	maxplayers="7"																	minplaytime="20"																	maxplaytime="40"																	playingtime="40"																	numowned="18874" >
+				<rating value="6">			<usersrated value="17081" />			<average value="6.60055" />
+			<bayesaverage value="6.48967" />			<stddev value="1.45617" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:15:01" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="128666" subtype="boardgame" collid="19890339">
+	<name sortindex="1">BANG! 10th Anniversary</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic2711409.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2711409_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="7"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="523" >
+				<rating value="6">			<usersrated value="223" />			<average value="7.10126" />
+			<bayesaverage value="5.83508" />			<stddev value="1.44135" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-04-11 06:55:07" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="62972" subtype="boardgame" collid="22126680">
+	<name sortindex="5">The Barbarossa Campaign</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic615980.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic615980_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="1"																	minplaytime="200"																	maxplaytime="200"																	playingtime="200"																	numowned="377" >
+				<rating value="7.5">			<usersrated value="147" />			<average value="7.9568" />
+			<bayesaverage value="5.89238" />			<stddev value="1.13778" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-03-10 06:33:56" />
+	<numplays>0</numplays>			<comment>Solitaire wargame about the full Russian campaign (1941-45). The map and units recall classic hex &amp; counters wargames, but the diceless system (using colored chits) is quite innovative. The full campaign is a bit long to play, but there are several shorter scenarios. I have only played the campaign, and always lost. I think that this is a difficult game to win, but I do not see it as something negative, but as a challenge!</comment>				</item>
+		<item objecttype="thing" objectid="3986" subtype="boardgame" collid="6090536">
+	<name sortindex="1">Battle for Germany</name>
+		<yearpublished>1975</yearpublished>			<image>//cf.geekdo-images.com/images/pic81914.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic81914_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="908" >
+				<rating value="8">			<usersrated value="428" />			<average value="7.05792" />
+			<bayesaverage value="6.06454" />			<stddev value="1.2753" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 04:51:36" />
+	<numplays>0</numplays>			<comment>A brilliant design! Above all, this wargame is fun, can be finished in an evening, and players must play both offensive and defensive roles. The rules are simple but effective. There is a limited historical simulation, but the objective of the designer was to give preeminence to playability and fun. And he achieves that!</comment>				</item>
+		<item objecttype="thing" objectid="135219" subtype="boardgame" collid="26021627">
+	<name sortindex="5">The Battle of Five Armies</name>
+		<yearpublished>2014</yearpublished>			<image>//cf.geekdo-images.com/images/pic1886964.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1886964_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="90"																	maxplaytime="240"																	playingtime="240"																	numowned="2419" >
+				<rating value="7">			<usersrated value="890" />			<average value="8.1603" />
+			<bayesaverage value="6.92247" />			<stddev value="1.18313" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-02-03 16:10:53" />
+	<numplays>0</numplays>			<comment>I own the first expansion for War of the Ring, that included two battles: Helm&#039;s Deep and Minas Tirith. This game follows the path traced by those games, borrowing several mechanics from the &quot;mother&quot; game. They are fast and enjoying games, but they do not reach the magnificence of War of the Ring.</comment>				</item>
+		<item objecttype="thing" objectid="20617" subtype="boardgame" collid="18348624">
+	<name sortindex="1">Battles of the Ancient World Volume II</name>
+		<yearpublished>1995</yearpublished>			<image>//cf.geekdo-images.com/images/pic130691.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic130691_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="132" >
+				<rating value="7.5">			<usersrated value="48" />			<average value="6.17188" />
+			<bayesaverage value="5.54028" />			<stddev value="1.30619" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-31 07:23:38" />
+	<numplays>0</numplays>			<comment>A VERY simple wargame, dynamic and enjoyable. I especially appreciate it because I started playing wargames with the first volume. It is highly advisable for introducing new players to wargames.
+
+Each scenario can be played in two or three hours. This box includes four battles of the Ancient World. A low historical simulation is the price to pay for simplicity and playability.</comment>				</item>
+		<item objecttype="thing" objectid="7082" subtype="boardgame" collid="18348625">
+	<name sortindex="1">Battles of the Ancient World Volume III</name>
+		<yearpublished>2000</yearpublished>			<image>//cf.geekdo-images.com/images/pic29042.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic29042_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="132" >
+				<rating value="7">			<usersrated value="51" />			<average value="6.54118" />
+			<bayesaverage value="5.56131" />			<stddev value="1.62435" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-31 07:23:55" />
+	<numplays>0</numplays>			<comment>A VERY simple wargame, dynamic and enjoyable. I especially appreciate it because I started playing wargames with this title. It is highly advisable for introducing new players to wargames.
+
+Each scenario can be played in two or three hours. This box includes six battles of the Ancient World, but I luckily obtained the special edition that includes all the scenarios from the two previous volumes (fourteen in total).</comment>				</item>
+		<item objecttype="thing" objectid="37111" subtype="boardgame" collid="7600256">
+	<name sortindex="1">Battlestar Galactica</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic354500.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic354500_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="120"																	maxplaytime="240"																	playingtime="240"																	numowned="23673" >
+				<rating value="9">			<usersrated value="21614" />			<average value="7.81243" />
+			<bayesaverage value="7.68755" />			<stddev value="1.53381" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2008-12-13 10:53:10" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="24020" subtype="boardgame" collid="6572566">
+	<name sortindex="1">Blitzwar</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic130531.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic130531_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="3"																	minplaytime="600"																	maxplaytime="600"																	playingtime="600"																	numowned="58" >
+				<rating value="9.5">			<usersrated value="23" />			<average value="7.19565" />
+			<bayesaverage value="0" />			<stddev value="1.88091" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2008-04-26 08:59:02" />
+	<numplays>0</numplays>			<comment>Blitzwar is a wargame made in Spain whose designer -Victor Catala- has the rare virtue of accomplishing what he promises in the presentation text that appears in the box.
+
+It is a wargame that covers all the II World War in the European theatre, a subject treated in very different forms in many games. However, Blitzwar really represents a new development and fresh air for those of us who look, first of all, for playability and enjoyment.
+
+The stroke of genius of the author resides in having designed a simple rulebook, far away from the complexity of &quot;monster&quot; games, but which achieves a high grade of historical simulation. Basically, Blitzwar allows the player to focus in the operational and strategical problems and to enjoy the game, instead of being worried about not forgetting hundreds rules and exceptions.
+ 
+Certainly, the graphic aspect of the game could be improved, even if it accomplishes perfectly its task. The price could seem high -and it is-, but do not forget the challenge that supposes the edition of these games for such a minority public.
+
+In short, Blitzwar is a highly recomended game both for veteran players who love easy rules and for those who want to begin playing wargames. Congratulations Victor!
+---------------------------------------------------------------------------
+Blitzwar es un juego de estrategia &quot;made in Spain&quot; cuyo autor -Victor Catala- tiene la rara virtud de cumplir lo que promete en el texto de presentacion que aparece en la caja.
+
+Se trata de un wargame que cubre toda la II Guerra Mundial en el teatro europeo, una tematica tratada de muy diversas formas en multitud de juegos. Sin embargo, realmente Blitzwar supone una novedad y una bocanada de aire fresco para aquellos que buscamos, ante todo, la jugabilidad y la diversion.
+
+La genialidad del autor radica en haber disenado un reglamento sencillo, alejado de la complejidad de los juegos &quot;monstruo&quot;, pero que no obstante logra un notable grado de simulacion historica. Basicamente, Blitzwar permite al jugador centrarse en los problemas operacionales y estrategicos, sin que un mar de reglas le tengan mas pendiente de no olvidar ninguna de ellas que de disfrutar la partida.
+
+Ciertamente, el aspecto grafico del juego es mejorable, aunque cumple perfectamente su cometido. El precio puede parecer elevado -y en efecto lo es-, pero no hay que olvidar el reto que supone la edicion de estos juegos con un publico tan minoritario.
+
+En definitiva, Blitzwar es un juego mas que recomendable tanto para jugadores veteranos amantes de las reglas sencillas como para aquellos que quieren iniciarse en los wargames. Felicidades Victor!</comment>				</item>
+		<item objecttype="thing" objectid="508" subtype="boardgame" collid="5475287">
+	<name sortindex="1">Blue Max</name>
+		<yearpublished>1983</yearpublished>			<image>//cf.geekdo-images.com/images/pic9636.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic9636_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="1016" >
+				<rating value="7.5">			<usersrated value="685" />			<average value="7.13723" />
+			<bayesaverage value="6.27035" />			<stddev value="1.42037" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2011-10-14 14:00:18" />
+	<numplays>0</numplays>			<comment>Un juego clasico de combate aereo en la Primera Guerra Mundial. Es muy divertido y pueden jugar sin problemas hasta 4 o 5 jugadores por bando. El reglamento no es complicado y se puede explicar en 20 minutos. La edicion espanola de Disenos Orbitales es excelente. Desgraciadamente solo se puede encontrar de tanto en tanto en Ebay
+
+Cada jugador &quot;pilota&quot; un aeroplano que tiene unas caracteristicas propias: velocidad, maniobrabilidad, una o dos ametralladoras, resistencia al fuego enemigo, autonomia de vuelo... Hay aviones mucho mejores que otros (como era la realidad historica).
+
+Las partidas son rapidas (pueden jugarse dos o tres en una tarde) y apasionantes. Si un piloto sobrevive, adquiere experiencia y mejora sus habilidades.
+
+Mis unicas objeciones son que el factor azar puede ser decisivo, y que es muy dificil competir con malos aeroplanos contra otros mejores.</comment>				</item>
+		<item objecttype="thing" objectid="11" subtype="boardgame" collid="11588841">
+	<name sortindex="1">Bohnanza</name>
+		<yearpublished>1997</yearpublished>			<image>//cf.geekdo-images.com/images/pic69366.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic69366_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="7"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="32932" >
+				<rating value="8">			<usersrated value="24497" />			<average value="7.08778" />
+			<bayesaverage value="7.00624" />			<stddev value="1.27816" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:10:47" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="12477" subtype="boardgame" collid="14474673">
+	<name sortindex="1">Bootleggers</name>
+		<yearpublished>2004</yearpublished>			<image>//cf.geekdo-images.com/images/pic51819.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic51819_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="3766" >
+				<rating value="7">			<usersrated value="2756" />			<average value="6.70728" />
+			<bayesaverage value="6.43805" />			<stddev value="1.40764" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2011-12-03 18:17:47" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="19237" subtype="boardgame" collid="11588851">
+	<name sortindex="1">Ca$h &#039;n Gun$</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic87523.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic87523_t.jpg</thumbnail>
+		<stats minplayers="4"																	maxplayers="6"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="7393" >
+				<rating value="7">			<usersrated value="8170" />			<average value="6.6954" />
+			<bayesaverage value="6.58224" />			<stddev value="1.34257" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:14:46" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="19237" subtype="boardgame" collid="15452849">
+	<name sortindex="1">Ca$h &#039;n Gun$</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic87523.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic87523_t.jpg</thumbnail>
+		<stats minplayers="4"																	maxplayers="6"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="7393" >
+				<rating value="6.5">			<usersrated value="8170" />			<average value="6.6954" />
+			<bayesaverage value="6.58224" />			<stddev value="1.34257" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 05:47:58" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="40243" subtype="boardgame" collid="10600000">
+	<name sortindex="1">Campaign Commander Volume I: Roads to Stalingrad</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic565372.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic565372_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="236" >
+				<rating value="7.5">			<usersrated value="111" />			<average value="7.73288" />
+			<bayesaverage value="5.76749" />			<stddev value="1.14794" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-06-07 07:25:39" />
+	<numplays>0</numplays>			<comment>The first title of a very nice series. The designer tries -and manages- to offer a simple and fast wargame which can be finished in an evening, but plenty of interesting decisions and strategical options. The basic mechanics are smart, and all the components (including cards) are well integrated.</comment>				</item>
+		<item objecttype="thing" objectid="88246" subtype="boardgame" collid="21786327">
+	<name sortindex="1">Campaign Commander Volume III: Punic Island</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic866285.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic866285_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="3"																	maxplaytime="3"																	playingtime="3"																	numowned="115" >
+				<rating value="7">			<usersrated value="33" />			<average value="7.5" />
+			<bayesaverage value="5.58944" />			<stddev value="1.37928" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-10-05 04:10:49" />
+	<numplays>0</numplays>			<comment>The third title of a very nice series. The designer tries -and manages- to offer a simple and fast wargame which can be finished in an evening, but plenty of interesting decisions and strategical options. The basic mechanics are smart, and all the components (including cards) are well integrated. Sadly, the rulebook is not good, with too many unclear aspects.</comment>				</item>
+		<item objecttype="thing" objectid="822" subtype="boardgame" collid="9384437">
+	<name sortindex="1">Carcassonne</name>
+		<yearpublished>2000</yearpublished>			<image>//cf.geekdo-images.com/images/pic2337577.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2337577_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="45"																	playingtime="45"																	numowned="72890" >
+				<rating value="7.5">			<usersrated value="54848" />			<average value="7.43722" />
+			<bayesaverage value="7.34222" />			<stddev value="1.29851" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-07-30 10:42:03" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="13" subtype="boardgame" collid="11588812">
+	<name sortindex="1">Catan</name>
+		<yearpublished>1995</yearpublished>			<image>//cf.geekdo-images.com/images/pic2419375.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2419375_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="76373" >
+				<rating value="8.5">			<usersrated value="55766" />			<average value="7.32369" />
+			<bayesaverage value="7.19102" />			<stddev value="1.43977" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:05:22" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="7" subtype="boardgame" collid="15452823">
+	<name sortindex="1">Cathedral</name>
+		<yearpublished>1978</yearpublished>			<image>//cf.geekdo-images.com/images/pic181642.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic181642_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="4045" >
+				<rating value="7">			<usersrated value="2507" />			<average value="6.53042" />
+			<bayesaverage value="6.26859" />			<stddev value="1.28698" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-04-08 17:07:37" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="47" subtype="boardgame" collid="11588840">
+	<name sortindex="1">Chinatown</name>
+		<yearpublished>1999</yearpublished>			<image>//cf.geekdo-images.com/images/pic2037509.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2037509_t.png</thumbnail>
+		<stats minplayers="3"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="5741" >
+				<rating value="8.5">			<usersrated value="4941" />			<average value="7.1984" />
+			<bayesaverage value="6.96959" />			<stddev value="1.30549" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:10:38" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="478" subtype="boardgame" collid="7220627">
+	<name sortindex="1">Citadels</name>
+		<yearpublished>2000</yearpublished>			<image>//cf.geekdo-images.com/images/pic636868.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic636868_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="8"																	minplaytime="20"																	maxplaytime="60"																	playingtime="60"																	numowned="41425" >
+				<rating value="9">			<usersrated value="32312" />			<average value="7.17699" />
+			<bayesaverage value="7.0965" />			<stddev value="1.23921" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2008-09-21 17:35:28" />
+	<numplays>0</numplays>			<comment>One of my most admired designs. Few times has a game achieved so much with so little. Just brilliant!</comment>				</item>
+		<item objecttype="thing" objectid="22141" subtype="boardgame" collid="9625952">
+	<name sortindex="1">Cleopatra and the Society of Architects</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic1904123.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1904123_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="6372" >
+				<rating value="7.5">			<usersrated value="5219" />			<average value="6.8221" />
+			<bayesaverage value="6.6463" />			<stddev value="1.14161" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-07-03 09:28:22" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="5782" subtype="boardgame" collid="9384447">
+	<name sortindex="1">Coloretto</name>
+		<yearpublished>2003</yearpublished>			<image>//cf.geekdo-images.com/images/pic149765.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic149765_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="14486" >
+				<rating value="9">			<usersrated value="12032" />			<average value="6.98429" />
+			<bayesaverage value="6.8848" />			<stddev value="1.11927" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-05-20 10:43:19" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="14105" subtype="boardgame" collid="21159698">
+	<name sortindex="1">Commands &amp; Colors: Ancients</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic132447.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic132447_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="7938" >
+				<rating value="7">			<usersrated value="6217" />			<average value="7.82502" />
+			<bayesaverage value="7.56066" />			<stddev value="1.41682" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-27 15:39:27" />
+	<numplays>0</numplays>			<comment>I think that this is a coherent and sincere game: it does not keep more or less than what it offers. A very simple introductory wargame, with a nice presentation and good components. Enjoying and quite luck dependent. It can be explained in 15 minutes and played in 1 hour. More battles may be found in the Internet, and there are several expansions.</comment>				</item>
+		<item objecttype="thing" objectid="112" subtype="boardgame" collid="11588863">
+	<name sortindex="1">Condottiere</name>
+		<yearpublished>1995</yearpublished>			<image>//cf.geekdo-images.com/images/pic239843.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic239843_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="6238" >
+				<rating value="7.5">			<usersrated value="5473" />			<average value="6.70367" />
+			<bayesaverage value="6.548" />			<stddev value="1.31488" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-24 14:19:06" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="56241" subtype="boardgame" collid="26871137">
+	<name sortindex="1">Coral Sea: Campaign Commander Volume II</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic719353.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic719353_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="206" >
+				<rating value="7.5">			<usersrated value="77" />			<average value="7.1026" />
+			<bayesaverage value="5.65392" />			<stddev value="1.56537" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-12-09 16:54:02" />
+	<numplays>0</numplays>			<comment>The second title of a very nice series. The designer tries -and manages- to offer a simple and fast wargame which can be finished in an evening, but plenty of interesting decisions and strategical options. The basic mechanics are smart, and all the components (including cards) are well integrated. Sadly, the rulebook is not good, with too many unclear aspects.</comment>				</item>
+		<item objecttype="thing" objectid="31697" subtype="boardgame" collid="21159721">
+	<name sortindex="1">Corps Command: Totensonntag</name>
+		<yearpublished>2007</yearpublished>			<image>//cf.geekdo-images.com/images/pic2573199.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2573199_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="529" >
+				<rating value="7.5">			<usersrated value="266" />			<average value="6.7688" />
+			<bayesaverage value="5.80347" />			<stddev value="1.49242" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-01-04 21:58:48" />
+	<numplays>0</numplays>			<comment>The designer has managed to create a fun and intense little wargame that can be played in an evening with very few rules and simple but clever mechanics. The components are good and the game&#039;s price is low. The luck factor is present, but at a reasonable level, and it helps to improve replayability.</comment>				</item>
+		<item objecttype="thing" objectid="8172" subtype="boardgame" collid="16139752">
+	<name sortindex="1">Coyote</name>
+		<yearpublished>2003</yearpublished>			<image>//cf.geekdo-images.com/images/pic33850.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic33850_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="20"																	maxplaytime="30"																	playingtime="30"																	numowned="1065" >
+				<rating value="7">			<usersrated value="921" />			<average value="6.61008" />
+			<bayesaverage value="6.11906" />			<stddev value="1.21629" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 05:48:43" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="36698" subtype="boardgame" collid="18680593">
+	<name sortindex="1">Crusades Quad</name>
+		<yearpublished>1992</yearpublished>			<image>//cf.geekdo-images.com/images/pic385132.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic385132_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="119" >
+				<rating value="2">			<usersrated value="37" />			<average value="6.24459" />
+			<bayesaverage value="5.53713" />			<stddev value="1.57505" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="1" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-24 14:13:16" />
+	<numplays>0</numplays>			<comment>Una tema interesante (batallas de las Cruzadas) mal aprovechado por el pesimo sistema de reglas de este fallido juego.
+
+Buscando la sencillez, el autor comete graves errores de diseno, creando numerosas situaciones absurdas que no logran un minimo grado de simulacion historica.
+
+Las reglas no tienen solucion. Seria necesario rehacerlas por completo, asi como las fichas, con lo que lo unico aprovechable serian los mapas (que tampoco son una maravilla en el aspecto grafico).
+
+No admite la menor comparacion con otros juegos que recrean batallas de forma sencilla con unas reglas simples y efectivas, como &quot;Battles of the Ancient World&quot; o &quot;Thirty Years War Quad&quot;. Una pena.</comment>				</item>
+		<item objecttype="thing" objectid="1323" subtype="boardgame" collid="15452729">
+	<name sortindex="1">Cry Havoc</name>
+		<yearpublished>1981</yearpublished>			<image>//cf.geekdo-images.com/images/pic361350.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic361350_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="926" >
+				<rating value="6">			<usersrated value="526" />			<average value="6.7613" />
+			<bayesaverage value="5.99773" />			<stddev value="1.41658" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 05:48:57" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="54998" subtype="boardgame" collid="10531939">
+	<name sortindex="1">Cyclades</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic584779.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic584779_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="90"																	playingtime="90"																	numowned="10015" >
+				<rating value="8.5">			<usersrated value="9582" />			<average value="7.53241" />
+			<bayesaverage value="7.35528" />			<stddev value="1.31935" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-05-24 12:34:53" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="54998" subtype="boardgame" collid="15452788">
+	<name sortindex="1">Cyclades</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic584779.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic584779_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="90"																	playingtime="90"																	numowned="10015" >
+				<rating value="8">			<usersrated value="9582" />			<average value="7.53241" />
+			<bayesaverage value="7.35528" />			<stddev value="1.31935" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-04-08 17:08:24" />
+	<numplays>0</numplays>			<comment>A very nice and enjoyable game. The rules are simple, but the game includes several clever and varied mechanics which make every game different and challenging.</comment>				</item>
+		<item objecttype="thing" objectid="96778" subtype="boardgame" collid="20857810">
+	<name sortindex="1">Cyclades: Hades</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic1247242.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1247242_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="3416" >
+				<rating value="8">			<usersrated value="1223" />			<average value="8.02772" />
+			<bayesaverage value="7.06119" />			<stddev value="1.19716" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-11-30 12:45:20" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="29603" subtype="boardgame" collid="19654740">
+	<name sortindex="1">D-Day at Omaha Beach</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic2212619.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2212619_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="480"																	maxplaytime="480"																	playingtime="480"																	numowned="2149" >
+				<rating value="8">			<usersrated value="853" />			<average value="8.29848" />
+			<bayesaverage value="6.96767" />			<stddev value="1.41124" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-01-24 13:18:59" />
+	<numplays>0</numplays>			<comment>One of the best solitaire games I have played, and the one that has the best &quot;classic wargame&quot; flavor. The rules seem a bit complicate at first glance, but later they work fine. I love the mechanics (no dice, only cards), and playing is always very tense.</comment>				</item>
+		<item objecttype="thing" objectid="15512" subtype="boardgame" collid="9625972">
+	<name sortindex="1">Diamant</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic2337170.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2337170_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="8"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="3548" >
+				<rating value="7.5">			<usersrated value="4518" />			<average value="6.69596" />
+			<bayesaverage value="6.52026" />			<stddev value="1.24613" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-12-22 10:34:32" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="39856" subtype="boardgame" collid="11588822">
+	<name sortindex="1">Dixit</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic455883.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic455883_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="29746" >
+				<rating value="8.5">			<usersrated value="23561" />			<average value="7.4014" />
+			<bayesaverage value="7.30829" />			<stddev value="1.35234" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-06 09:06:31" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="102237" subtype="boardgame" collid="20994706">
+	<name sortindex="1">Drako</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic1043729.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1043729_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="1505" >
+				<rating value="7.5">			<usersrated value="1312" />			<average value="6.78106" />
+			<bayesaverage value="6.30789" />			<stddev value="1.23182" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 05:54:27" />
+	<numplays>0</numplays>			<comment>I like games like this where the conflicting sides are different. This is a very nice design: quality components, simple rules, clever mechanics and fun.</comment>				</item>
+		<item objecttype="thing" objectid="121" subtype="boardgame" collid="6173120">
+	<name sortindex="1">Dune</name>
+		<yearpublished>1979</yearpublished>			<image>//cf.geekdo-images.com/images/pic279251.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic279251_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="60"																	maxplaytime="180"																	playingtime="180"																	numowned="4817" >
+				<rating value="7">			<usersrated value="4182" />			<average value="7.61733" />
+			<bayesaverage value="7.27424" />			<stddev value="1.66288" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-04-20 07:05:57" />
+	<numplays>0</numplays>			<comment>A true classic that has aged well. This game transmits the flavor of the novel, its rules are simple, but they introduce many original and fun aspects. It is a very enjoyable multi-player game. Maybe the victory conditions and the alliance rules need a pair of touches.</comment>				</item>
+		<item objecttype="thing" objectid="29109" subtype="boardgame" collid="8505665">
+	<name sortindex="1">Dust</name>
+		<yearpublished>2007</yearpublished>			<image>//cf.geekdo-images.com/images/pic280668.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic280668_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="2251" >
+				<rating value="6.5">			<usersrated value="1237" />			<average value="6.52007" />
+			<bayesaverage value="6.12431" />			<stddev value="1.40994" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-10-05 03:45:55" />
+	<numplays>0</numplays>			<comment>This is not a complex wargame, but neither a simple &quot;Risk&quot; style boardgame. If you look for a short game that can be played in an evening, with an easy rulebook, but also with interesting mechanics, limited importance of luck and lot of fun, this could be a good option.</comment>				</item>
+		<item objecttype="thing" objectid="6281" subtype="boardgame" collid="9002731">
+	<name sortindex="1">Eketorp</name>
+		<yearpublished>2003</yearpublished>			<image>//cf.geekdo-images.com/images/pic1175189.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1175189_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="45"																	maxplaytime="60"																	playingtime="60"																	numowned="1231" >
+				<rating value="9">			<usersrated value="1078" />			<average value="6.38324" />
+			<bayesaverage value="6.0194" />			<stddev value="1.26654" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-09-12 04:19:40" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="6281" subtype="boardgame" collid="15452777">
+	<name sortindex="1">Eketorp</name>
+		<yearpublished>2003</yearpublished>			<image>//cf.geekdo-images.com/images/pic1175189.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1175189_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="45"																	maxplaytime="60"																	playingtime="60"																	numowned="1231" >
+				<rating value="7">			<usersrated value="1078" />			<average value="6.38324" />
+			<bayesaverage value="6.0194" />			<stddev value="1.26654" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-04-08 17:08:36" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="20134" subtype="boardgame" collid="11588858">
+	<name sortindex="5">The End of the Triumvirate</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic158273.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic158273_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="3"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="1808" >
+				<rating value="7.5">			<usersrated value="1452" />			<average value="6.84419" />
+			<bayesaverage value="6.40081" />			<stddev value="1.27409" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-19 12:41:20" />
+	<numplays>0</numplays>			<comment>This game achieves a difficult task: it is a VERY good game for 3 players. Simple rules, fast and enjoying play.</comment>				</item>
+		<item objecttype="thing" objectid="6205" subtype="boardgame" collid="12705917">
+	<name sortindex="1">Europe Engulfed</name>
+		<yearpublished>2003</yearpublished>			<image>//cf.geekdo-images.com/images/pic36736.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic36736_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="3"																	minplaytime="720"																	maxplaytime="720"																	playingtime="720"																	numowned="2161" >
+				<rating value="6.5">			<usersrated value="1174" />			<average value="7.56022" />
+			<bayesaverage value="6.68988" />			<stddev value="1.70213" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-03-23 06:03:50" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="20133" subtype="boardgame" collid="28881546">
+	<name sortindex="1">FAB: The Bulge</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic295987.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic295987_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="1346" >
+				<rating value="8.5">			<usersrated value="586" />			<average value="7.48585" />
+			<bayesaverage value="6.36977" />			<stddev value="1.33497" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-07-03 09:26:48" />
+	<numplays>0</numplays>			<comment>My favourite blocks game until now! Very clever mechanics that allow a low density of units, fast and intense play and, above all, fun. I only find two problems: the rules are a bit fiddly, because they are not complicate but include many particular situations, and I find it VERY difficult to win with the German side (but I enjoy trying to improve my performance with that side!).</comment>				</item>
+		<item objecttype="thing" objectid="96749" subtype="boardgame" collid="28866950">
+	<name sortindex="1">Fading Glory</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic1510195.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1510195_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																																																																				numowned="942" >
+				<rating value="6">			<usersrated value="355" />			<average value="7.58634" />
+			<bayesaverage value="6.17684" />			<stddev value="1.21591" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-11-30 12:56:02" />
+	<numplays>0</numplays>			<comment>I love simple wargames, and Napoleonic 20 series is among them, offering clear rules, very few units and fast games.
+ 
+The problem I see here is that luck has an escessive protagonism. Other simple wargames include more units, and there are more dice rolls. Here, with less than 20 -sometimes less than 10- units per side, you feel that most die rolls are decisive. The combat table offers extreme results in many columns, and a simple retreat can be fatal if you fail the die roll and the unit routs.
+
+I will play more battles of this system, but it is not among my favorite ones.</comment>				</item>
+		<item objecttype="thing" objectid="35350" subtype="boardgame" collid="13457572">
+	<name sortindex="1">Field Commander: Alexander</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic547590.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic547590_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="1"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="1149" >
+				<rating value="8">			<usersrated value="519" />			<average value="7.09048" />
+			<bayesaverage value="6.13816" />			<stddev value="1.32929" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-04-11 09:44:58" />
+	<numplays>0</numplays>			<comment>Solitaire game that feels more an &quot;adventure&quot; than a wargame. There are four campaigns included, and in each of them you must try to repeat -or improve- Alexander&#039;s success. The rules are not complicate and apart from battles there are many other interesting things: sieges, prophecies, management of resources... The enemy Artificial Intelligence is limited, but overall this is a nice game, with great components.</comment>				</item>
+		<item objecttype="thing" objectid="35350" subtype="boardgame" collid="13457574">
+	<name sortindex="1">Field Commander: Alexander</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic547590.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic547590_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="1"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="1149" >
+				<rating value="8">			<usersrated value="519" />			<average value="7.09048" />
+			<bayesaverage value="6.13816" />			<stddev value="1.32929" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-03-23 06:04:32" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="14083" subtype="boardgame" collid="6852590">
+	<name sortindex="1">Fire in the Sky: The Great Pacific War 1941-1945</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic58333.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic58333_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="300"																	maxplaytime="300"																	playingtime="300"																	numowned="1006" >
+				<rating value="8.5">			<usersrated value="436" />			<average value="7.43431" />
+			<bayesaverage value="6.20864" />			<stddev value="1.62194" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-01-16 14:50:44" />
+	<numplays>0</numplays>			<comment>I like this wargame a lot. It allows playing the complete Pacific War in a reasonable amount of time, the rules are accessible and they focus on the air and sea battles, which are the key aspect of this theatre. The art by Niko Eskubi is simply awesome, probably my favorite graphic design.</comment>				</item>
+		<item objecttype="thing" objectid="11202" subtype="boardgame" collid="7151993">
+	<name sortindex="5">The First World War</name>
+		<yearpublished>2004</yearpublished>			<image>//cf.geekdo-images.com/images/pic1339408.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1339408_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="778" >
+				<rating value="6">			<usersrated value="403" />			<average value="6.12102" />
+			<bayesaverage value="5.70905" />			<stddev value="1.70102" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-04-20 07:08:03" />
+	<numplays>0</numplays>			<comment>A very simple introductory wargame. It does not pretend to be more than that, and carries out its mission perfectly.</comment>				</item>
+		<item objecttype="thing" objectid="8730" subtype="boardgame" collid="11076297">
+	<name sortindex="1">Flying Colors</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic804598.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic804598_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="4"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="1574" >
+				<rating value="6">			<usersrated value="548" />			<average value="7.43406" />
+			<bayesaverage value="6.2991" />			<stddev value="1.40309" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-08-20 05:29:07" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="172" subtype="boardgame" collid="23474653">
+	<name sortindex="1">For Sale</name>
+		<yearpublished>1997</yearpublished>			<image>//cf.geekdo-images.com/images/pic1513085.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1513085_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="13842" >
+				<rating value="7.5">			<usersrated value="12386" />			<average value="7.21054" />
+			<bayesaverage value="7.10668" />			<stddev value="1.14362" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-04-11 09:45:25" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="833" subtype="boardgame" collid="5789236">
+	<name sortindex="1">For the People</name>
+		<yearpublished>1998</yearpublished>			<image>//cf.geekdo-images.com/images/pic1736659.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1736659_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="360"																	maxplaytime="360"																	playingtime="360"																	numowned="2683" >
+				<rating value="8.5">			<usersrated value="1024" />			<average value="7.61893" />
+			<bayesaverage value="6.71411" />			<stddev value="1.47147" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-04-11 09:50:22" />
+	<numplays>0</numplays>			<comment>My favorite strategical wargame about the American Civil War (1861-65). It is a great card-driven game, with many options for both sides and tons of enjoyment. The rules are a bit more difficult than average, but affordable.
+
+He realizado un resumen detallado de las reglas en español: https://boardgamegeek.com/filepage/62033/people-resumen-de-reglas-en-espanol</comment>				</item>
+		<item objecttype="thing" objectid="65244" subtype="boardgame" collid="15058775">
+	<name sortindex="1">Forbidden Island</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic646458.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic646458_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="31588" >
+				<rating value="6">			<usersrated value="20308" />			<average value="6.89628" />
+			<bayesaverage value="6.81346" />			<stddev value="1.16881" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-08-20 05:29:19" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="6405" subtype="boardgame" collid="5475303">
+	<name sortindex="1">Four Battles of the Ancient World</name>
+		<yearpublished>1992</yearpublished>			<image>//cf.geekdo-images.com/images/pic221506.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic221506_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="247" >
+				<rating value="8">			<usersrated value="106" />			<average value="5.99764" />
+			<bayesaverage value="5.56145" />			<stddev value="1.43867" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-04-11 09:53:26" />
+	<numplays>0</numplays>			<comment>Un juego de estrategia MUY sencillo, a la vez que ágil y divertido. Le tengo especial aprecio porque con él empecé a jugar a wargames. Es especialmente recomendable para iniciar en la afición a nuevos jugadores.
+
+Cada escenario puede jugarse en dos o tres horas. El juego incluye cuatro batallas del Mundo Antiguo y hay otros dos volúmenes muy recomendables con 10 batallas mas.</comment>				</item>
+		<item objecttype="thing" objectid="23686" subtype="boardgame" collid="11609689">
+	<name sortindex="1">GiftTRAP</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic356504.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic356504_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="8"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="2477" >
+				<rating value="6">			<usersrated value="2020" />			<average value="6.48275" />
+			<bayesaverage value="6.19937" />			<stddev value="1.42037" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-15 09:53:47" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="93" subtype="boardgame" collid="6327993">
+	<name sortindex="4">El Grande</name>
+		<yearpublished>1995</yearpublished>			<image>//cf.geekdo-images.com/images/pic180538.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic180538_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="15916" >
+				<rating value="9.5">			<usersrated value="16310" />			<average value="7.82495" />
+			<bayesaverage value="7.71102" />			<stddev value="1.34366" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2008-03-06 09:07:22" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="147170" subtype="boardgame" collid="25328818">
+	<name sortindex="4">El Grande Decennial Edition</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic1244111.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1244111_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="763" >
+				<rating value="9.5">			<usersrated value="379" />			<average value="8.43003" />
+			<bayesaverage value="6.50652" />			<stddev value="0.99862" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-10-24 13:11:19" />
+	<numplays>0</numplays>			<comment>A classic. This is a brilliant design, one of the best &quot;majority games&quot; ever edited.</comment>				</item>
+		<item objecttype="thing" objectid="22604" subtype="boardgame" collid="8437912">
+	<name sortindex="5">The Halls of Montezuma</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic453474.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic453474_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="612" >
+				<rating value="6.5">			<usersrated value="162" />			<average value="6.5537" />
+			<bayesaverage value="5.68597" />			<stddev value="1.7598" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 06:16:09" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="234" subtype="boardgame" collid="5476040">
+	<name sortindex="1">Hannibal: Rome vs. Carthage</name>
+		<yearpublished>1996</yearpublished>			<image>//cf.geekdo-images.com/images/pic706069.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic706069_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="40"																	maxplaytime="200"																	playingtime="200"																	numowned="6334" >
+				<rating value="8">			<usersrated value="4034" />			<average value="7.83155" />
+			<bayesaverage value="7.4479" />			<stddev value="1.51523" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2007-12-04 05:34:36" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="27739" subtype="boardgame" collid="10361083">
+	<name sortindex="1">Hearts and Minds: Vietnam 1965-1975</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic237072.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic237072_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="684" >
+				<rating value="9">			<usersrated value="284" />			<average value="7.66511" />
+			<bayesaverage value="6.10287" />			<stddev value="1.31527" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-09-03 04:00:18" />
+	<numplays>0</numplays>			<comment>A breath of fresh air in the card-driven wargames family. I find this title very interesting, as it introduces new mechanics, plays smoothly and -above all- it is very enjoyable. You may play the entire Vietnam war in an evening, with a reasonable historical simulation.</comment>				</item>
+		<item objecttype="thing" objectid="17392" subtype="boardgame" collid="8041963">
+	<name sortindex="1">Here I Stand</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic353047.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic353047_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="360"																	maxplaytime="360"																	playingtime="360"																	numowned="3833" >
+				<rating value="8">			<usersrated value="2679" />			<average value="7.95161" />
+			<bayesaverage value="7.40722" />			<stddev value="1.71092" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-03-06 17:04:17" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="699" subtype="boardgame" collid="10227070">
+	<name sortindex="1">HeroQuest</name>
+		<yearpublished>1989</yearpublished>			<image>//cf.geekdo-images.com/images/pic338410.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic338410_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="10275" >
+				<rating value="7">			<usersrated value="7094" />			<average value="6.96428" />
+			<bayesaverage value="6.72323" />			<stddev value="1.51302" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-03-27 06:26:21" />
+	<numplays>0</numplays>			<comment>A classic. I was given this game when I was 14, and it initiated me into the world of roleplaying games, boardgames and -later- wargames. I would consider it a game suitable for young players, but too simple for veterans. Very nice memories...</comment>				</item>
+		<item objecttype="thing" objectid="11170" subtype="boardgame" collid="15452740">
+	<name sortindex="1">Heroscape Master Set: Rise of the Valkyrie</name>
+		<yearpublished>2004</yearpublished>			<image>//cf.geekdo-images.com/images/pic244662.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic244662_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="9968" >
+				<rating value="7">			<usersrated value="6473" />			<average value="7.41864" />
+			<bayesaverage value="7.15339" />			<stddev value="1.52941" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-08-20 05:29:44" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="224" subtype="boardgame" collid="6173124">
+	<name sortindex="1">History of the World</name>
+		<yearpublished>1991</yearpublished>			<image>//cf.geekdo-images.com/images/pic287451.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic287451_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="6"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="4423" >
+				<rating value="7">			<usersrated value="3749" />			<average value="7.14029" />
+			<bayesaverage value="6.83814" />			<stddev value="1.47885" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-04-11 09:55:01" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="701" subtype="boardgame" collid="5475362">
+	<name sortindex="3">A House Divided</name>
+		<yearpublished>1981</yearpublished>			<image>//cf.geekdo-images.com/images/pic1261028.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1261028_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="3108" >
+				<rating value="7.5">			<usersrated value="1597" />			<average value="7.09707" />
+			<bayesaverage value="6.57198" />			<stddev value="1.36381" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 06:26:15" />
+	<numplays>0</numplays>			<comment>Estupendo juego de estrategia sobre la Guerra de Secesion. Su mayor virtud reside en que logra reflejar las peculiaridades del conflicto con un reglamento sencillo.
+
+Es divertido llevar cualquiera de los dos bandos, aunque son muy distintos. El Sur debe intentar aprovechar su superioridad cualitativa inicial para ganar la guerra con rapidez. Si el Norte resiste, debera llevar a cabo una larga guerra de desgaste para derrotar a los confederados.
+
+Recomiendo aplicar TODAS las reglas avanzadas y opcionales, a excepcion quizas de las de suministro. Son sencillas y contribuyen a dar mucho mas sabor al juego.</comment>				</item>
+		<item objecttype="thing" objectid="144958" subtype="boardgame" collid="26486452">
+	<name sortindex="1">Iwo: Bloodbath in the Bonins 19 Feb – 17 Mar 1945</name>
+		<yearpublished>2013</yearpublished>			<image>//cf.geekdo-images.com/images/pic1715072.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1715072_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="195" >
+				<rating value="5">			<usersrated value="51" />			<average value="6.75098" />
+			<bayesaverage value="5.5812" />			<stddev value="1.18278" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="1" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-25 16:48:35" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="8098" subtype="boardgame" collid="11588866">
+	<name sortindex="1">Jungle Speed</name>
+		<yearpublished>1997</yearpublished>			<image>//cf.geekdo-images.com/images/pic736534.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic736534_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="8"																	minplaytime="10"																	maxplaytime="10"																	playingtime="10"																	numowned="8641" >
+				<rating value="7.5">			<usersrated value="6501" />			<average value="6.62408" />
+			<bayesaverage value="6.46716" />			<stddev value="1.4959" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-02-26 14:41:11" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="62227" subtype="boardgame" collid="13259344">
+	<name sortindex="1">Labyrinth: The War on Terror, 2001 – ?</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic859584.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic859584_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="5190" >
+				<rating value="6">			<usersrated value="2649" />			<average value="7.59575" />
+			<bayesaverage value="7.11487" />			<stddev value="1.55082" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-12-30 17:23:34" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="18833" subtype="boardgame" collid="20994774">
+	<name sortindex="1">Lord of the Rings: The Confrontation (Deluxe Edition)</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic1680704.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1680704_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="4711" >
+				<rating value="8">			<usersrated value="3827" />			<average value="7.53552" />
+			<bayesaverage value="7.20035" />			<stddev value="1.34062" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-10-05 03:52:14" />
+	<numplays>0</numplays>			<comment>An excellent game that offers a lot of enjoyment with extremely simple rules. No luck here, just strategy and bluffing. It plays quick, and you will want to play another game after finishing one.</comment>				</item>
+		<item objecttype="thing" objectid="50" subtype="boardgame" collid="15452776">
+	<name sortindex="1">Lost Cities</name>
+		<yearpublished>1999</yearpublished>			<image>//cf.geekdo-images.com/images/pic2606107.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2606107_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="27590" >
+				<rating value="6">			<usersrated value="22582" />			<average value="7.12075" />
+			<bayesaverage value="7.0388" />			<stddev value="1.27896" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-08-20 05:30:21" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="55158" subtype="boardgame" collid="10037088">
+	<name sortindex="1">Luna Llena: Full Moon</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic589692.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic589692_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="7"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="412" >
+				<rating value="7">			<usersrated value="185" />			<average value="6.47741" />
+			<bayesaverage value="5.69575" />			<stddev value="1.57211" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-02-20 18:11:33" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="463" subtype="boardgame" collid="11588834">
+	<name sortindex="1">Magic: The Gathering</name>
+		<yearpublished>1993</yearpublished>			<image>//cf.geekdo-images.com/images/pic163749.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic163749_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="20"																	maxplaytime="20"																	playingtime="20"																	numowned="21211" >
+				<rating value="1">			<usersrated value="19357" />			<average value="7.43239" />
+			<bayesaverage value="7.30392" />			<stddev value="1.84175" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:09:23" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="14808" subtype="boardgame" collid="8267545">
+	<name sortindex="1">Marvel Heroes</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic150626.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic150626_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="2856" >
+				<rating value="7.5">			<usersrated value="2159" />			<average value="6.43385" />
+			<bayesaverage value="6.16664" />			<stddev value="1.60514" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-04-20 11:23:04" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="40823" subtype="boardgame" collid="24982530">
+	<name sortindex="1">MedWar Sicily</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic448056.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic448056_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="4"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="212" >
+				<rating value="7">			<usersrated value="69" />			<average value="6.50304" />
+			<bayesaverage value="5.58942" />			<stddev value="1.34688" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-11-10 06:47:05" />
+	<numplays>0</numplays>			<comment>This is a good medium-sized wargame about the interesting WWII Sicily campaign. Low counter density and simple rules, it can be played in a long evening. It uses classic hex &amp; counter mechanics, but also adds quite unusual rules. Overalll, I like them.
+
+The Rulebook could be written better, but most of the doubts and unclear aspects have been answered by the author or the publisher(see the updated FAQ here in BGG).</comment>				</item>
+		<item objecttype="thing" objectid="902" subtype="boardgame" collid="9625938">
+	<name sortindex="1">Meuterer</name>
+		<yearpublished>2000</yearpublished>			<image>//cf.geekdo-images.com/images/pic135137.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic135137_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="4781" >
+				<rating value="8">			<usersrated value="2811" />			<average value="6.97535" />
+			<bayesaverage value="6.66398" />			<stddev value="1.23411" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-12-22 10:24:13" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="31563" subtype="boardgame" collid="12632970">
+	<name sortindex="1">Middle-Earth Quest</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic717059.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic717059_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="4859" >
+				<rating value="7">			<usersrated value="3100" />			<average value="7.41721" />
+			<bayesaverage value="7.02151" />			<stddev value="1.38939" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 06:22:46" />
+	<numplays>0</numplays>			<comment>This is a very nice adventure game. I admit that it is not perfect (victory conditions could be improved), but the main mechanics are quite innovative and fun. It can be finished in a long evening, and the background is well implemented.</comment>				</item>
+		<item objecttype="thing" objectid="21763" subtype="boardgame" collid="23522498">
+	<name sortindex="1">Mr. Jack</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic156046.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic156046_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="11717" >
+				<rating value="6.5">			<usersrated value="10416" />			<average value="7.11114" />
+			<bayesaverage value="6.9883" />			<stddev value="1.22872" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-09-03 04:05:22" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="36399" subtype="boardgame" collid="12705928">
+	<name sortindex="5">The Napoleonic Wars (Second Edition)</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic1445591.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1445591_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="1205" >
+				<rating value="6">			<usersrated value="674" />			<average value="7.4142" />
+			<bayesaverage value="6.39497" />			<stddev value="1.55397" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2011-04-08 17:48:18" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="23995" subtype="boardgame" collid="7252132">
+	<name sortindex="1">No Peace Without Spain!</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic447361.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic447361_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="393" >
+				<rating value="8.5">			<usersrated value="158" />			<average value="7.6962" />
+			<bayesaverage value="5.86093" />			<stddev value="1.35248" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-03-22 09:37:37" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="23995" subtype="boardgame" collid="15452744">
+	<name sortindex="1">No Peace Without Spain!</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic447361.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic447361_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="393" >
+				<rating value="8.5">			<usersrated value="158" />			<average value="7.6962" />
+			<bayesaverage value="5.86093" />			<stddev value="1.35248" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-03-22 09:38:04" />
+	<numplays>0</numplays>			<comment>A very nice and enjoying card-driven wargame, with simple rules, but many strategic options. The designer has achieved to transmit the flavor of this interesting European war. Luck has too much protagonism in some aspects (including combat), but I can coexist with that.</comment>				</item>
+		<item objecttype="thing" objectid="1234" subtype="boardgame" collid="15452839">
+	<name sortindex="1">Once Upon a Time: The Storytelling Card Game</name>
+		<yearpublished>1993</yearpublished>			<image>//cf.geekdo-images.com/images/pic1494028.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1494028_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="9198" >
+				<rating value="7">			<usersrated value="5218" />			<average value="6.51824" />
+			<bayesaverage value="6.35748" />			<stddev value="1.52484" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-08-20 05:30:32" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="84465" subtype="boardgame" collid="22118073">
+	<name sortindex="1">Ottoman Sunset</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic1715324.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1715324_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="1"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="681" >
+				<rating value="6.5">			<usersrated value="324" />			<average value="7.45108" />
+			<bayesaverage value="6.05611" />			<stddev value="1.31275" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-01-28 13:03:28" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="5277" subtype="boardgame" collid="5475334">
+	<name sortindex="1">Overlord</name>
+		<yearpublished>1973</yearpublished>			<image>//cf.geekdo-images.com/images/pic18232.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic18232_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="165" >
+				<rating value="7.5">			<usersrated value="62" />			<average value="6.88226" />
+			<bayesaverage value="5.58897" />			<stddev value="1.64851" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 06:30:26" />
+	<numplays>0</numplays>			<comment>One of my first wargames. A classic hex &amp; counter &amp; IgoUgo game, published in Spanish by Diseños Orbitales. I played it a lot, enjoyed the experience, and learnt a lot about the system and the historical campaign itself.</comment>				</item>
+		<item objecttype="thing" objectid="91" subtype="boardgame" collid="5475336">
+	<name sortindex="1">Paths of Glory</name>
+		<yearpublished>1999</yearpublished>			<image>//cf.geekdo-images.com/images/pic834645.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic834645_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="480"																	maxplaytime="480"																	playingtime="480"																	numowned="5738" >
+				<rating value="9">			<usersrated value="3200" />			<average value="8.02658" />
+			<bayesaverage value="7.55753" />			<stddev value="1.68136" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2007-12-04 05:34:56" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="88006" subtype="boardgame" collid="23474650">
+	<name sortindex="1">Patton&#039;s First Victory: Tunisia</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic868606.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic868606_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="106" >
+				<rating value="7">			<usersrated value="28" />			<average value="7.35893" />
+			<bayesaverage value="0" />			<stddev value="1.08307" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-06-16 06:42:21" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="24480" subtype="boardgame" collid="16139747">
+	<name sortindex="5">The Pillars of the Earth</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic212815.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic212815_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="90"																	maxplaytime="120"																	playingtime="120"																	numowned="12709" >
+				<rating value="7.5">			<usersrated value="11701" />			<average value="7.31882" />
+			<bayesaverage value="7.19011" />			<stddev value="1.19445" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-08-20 05:30:53" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="38531" subtype="boardgame" collid="11610435">
+	<name sortindex="1">Powerboats</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic373898.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic373898_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="1216" >
+				<rating value="7.5">			<usersrated value="1611" />			<average value="6.72816" />
+			<bayesaverage value="6.35556" />			<stddev value="1.2643" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-15 11:03:29" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="14701" subtype="boardgame" collid="8300494">
+	<name sortindex="5">The Price of Freedom: The American Civil War 1861-1865</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic180902.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic180902_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="426" >
+				<rating value="7.5">			<usersrated value="166" />			<average value="6.41807" />
+			<bayesaverage value="5.65806" />			<stddev value="1.7335" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-04-27 11:54:01" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="23418" subtype="boardgame" collid="9883126">
+	<name sortindex="1">Pursuit of Glory</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic394801.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic394801_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="360"																	maxplaytime="360"																	playingtime="360"																	numowned="1189" >
+				<rating value="8">			<usersrated value="385" />			<average value="7.96387" />
+			<bayesaverage value="6.30628" />			<stddev value="1.5737" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-16 15:43:55" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="1563" subtype="boardgame" collid="5475352">
+	<name sortindex="1">Rise and Decline of the Third Reich</name>
+		<yearpublished>1974</yearpublished>			<image>//cf.geekdo-images.com/images/pic147580.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic147580_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="1440"																	maxplaytime="1440"																	playingtime="1440"																	numowned="3274" >
+				<rating value="4">			<usersrated value="1423" />			<average value="6.76339" />
+			<bayesaverage value="6.27349" />			<stddev value="1.64144" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="1" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-24 14:15:08" />
+	<numplays>0</numplays>			<comment>Una leyenda de los wargames. Sin duda, en su momento supuso una revolucion en los juegos de estrategia y durante mucho tiempo fue el mejor titulo sobre la II Guerra Mundial en el teatro europeo.
+
+Sin embargo, creo que ha envejecido mal, y su estilo no se ajusta a los gustos de los que buscamos mayor sencillez y jugabilidad a esta escala. Las reglas son farragosas y obligan a estar mas pendiente de mil y una excepciones que del juego en si mismo. Ademas (esto es una opinion personal) nunca me ha convencido el sistema de combate, basado en las penetraciones de las unidades blindadas.
+
+Considero que hoy en dia hay varios juegos mejores que el vetusto y venerable &quot;Third Reich&quot;.</comment>				</item>
+		<item objecttype="thing" objectid="823" subtype="boardgame" collid="15452827">
+	<name sortindex="1">El Señor de los Anillos</name>
+	<originalname>Lord of the Rings</originalname>	<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic988126.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic988126_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="15952" >
+				<rating value="6.5">			<usersrated value="10787" />			<average value="6.81084" />
+			<bayesaverage value="6.70182" />			<stddev value="1.49308" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-03-10 11:56:17" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="15062" subtype="boardgame" collid="10531949">
+	<name sortindex="1">Shadows over Camelot</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic70547.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic70547_t.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="7"																	minplaytime="60"																	maxplaytime="80"																	playingtime="80"																	numowned="19722" >
+				<rating value="7.5">			<usersrated value="17214" />			<average value="7.15372" />
+			<bayesaverage value="7.04975" />			<stddev value="1.4002" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-05-24 12:35:31" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="11949" subtype="boardgame" collid="6090907">
+	<name sortindex="1">Shifting Sands</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic937167.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic937167_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="949" >
+				<rating value="7">			<usersrated value="491" />			<average value="7.28656" />
+			<bayesaverage value="6.20641" />			<stddev value="1.58076" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2008-01-22 07:01:48" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="38054" subtype="boardgame" collid="9384450">
+	<name sortindex="1">Snow Tails</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic2574022.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic2574022_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="45"																	maxplaytime="60"																	playingtime="60"																	numowned="4117" >
+				<rating value="7.5">			<usersrated value="4149" />			<average value="6.98532" />
+			<bayesaverage value="6.76797" />			<stddev value="1.18599" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-11-12 10:25:54" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="34659" subtype="boardgame" collid="6558363">
+	<name sortindex="5">The Spanish Civil War 1936-1939</name>
+		<yearpublished>2010</yearpublished>			<image>//cf.geekdo-images.com/images/pic852171.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic852171_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="360"																	maxplaytime="360"																	playingtime="360"																	numowned="641" >
+				<rating value="8">			<usersrated value="169" />			<average value="7.45296" />
+			<bayesaverage value="5.84788" />			<stddev value="1.3243" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-04-08 16:15:24" />
+	<numplays>0</numplays>			<comment>A very interesting game about a very interesting -and rather unkown- subjetc. A lot has been written about many aspects of the Spanish Civil War, but little about the military events. I am taking part in the playtesting process, and TSCW seems to be a great wargame. Strategic-operational scale, functional map, not too many counters, easy rules, diverse options for both players... And fun!</comment>				</item>
+		<item objecttype="thing" objectid="22377" subtype="boardgame" collid="8537564">
+	<name sortindex="1">Spartacus</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic342194.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic342194_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="300"																	maxplaytime="300"																	playingtime="300"																	numowned="442" >
+				<rating value="7">			<usersrated value="133" />			<average value="6.7406" />
+			<bayesaverage value="5.6751" />			<stddev value="1.77028" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 06:24:28" />
+	<numplays>0</numplays>			<comment>Card-driven wargame about a very interesting phase of Roman History, the Late Republic. It is based in Hannibal, but adds many new rules and modifications that I find nice. Simple rules, intelligent mechanics, fast play, lot of fun and Historical flavour. One advice: see the Errata before playing!</comment>				</item>
+		<item objecttype="thing" objectid="2090" subtype="boardgame" collid="15452754">
+	<name sortindex="1">Stalingrad Pocket (first edition)</name>
+		<yearpublished>1992</yearpublished>			<image>//cf.geekdo-images.com/images/pic309042.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic309042_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="120"																	maxplaytime="120"																	playingtime="120"																	numowned="437" >
+				<rating value="6.5">			<usersrated value="155" />			<average value="6.7171" />
+			<bayesaverage value="5.7069" />			<stddev value="1.19943" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-04-09 12:40:49" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="2978" subtype="boardgame" collid="15452842">
+	<name sortindex="1">Stratego 4</name>
+		<yearpublished>1995</yearpublished>			<image>//cf.geekdo-images.com/images/pic175340.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic175340_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="504" >
+				<rating value="9">			<usersrated value="281" />			<average value="6.05516" />
+			<bayesaverage value="5.63665" />			<stddev value="1.39521" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-04-08 17:04:22" />
+	<numplays>0</numplays>			<comment>A rather unknown gem! In my opinion, this version beats the original Stratego, adding not only the option of playing with three or four players, but also several clever new mechanics. I have played it many, many times, and I still enjoy it a lot!</comment>				</item>
+		<item objecttype="thing" objectid="91534" subtype="boardgame" collid="14289986">
+	<name sortindex="5">The Struggle for Catan</name>
+		<yearpublished>2011</yearpublished>			<image>//cf.geekdo-images.com/images/pic918589.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic918589_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="3001" >
+				<rating value="6">			<usersrated value="1364" />			<average value="6.28285" />
+			<bayesaverage value="5.98907" />			<stddev value="1.35185" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2011-11-12 14:26:28" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="7480" subtype="boardgame" collid="12705931">
+	<name sortindex="1">Sword of Rome</name>
+		<yearpublished>2004</yearpublished>			<image>//cf.geekdo-images.com/images/pic1994346.png</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1994346_t.png</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="360"																	maxplaytime="360"																	playingtime="360"																	numowned="2284" >
+				<rating value="8">			<usersrated value="1249" />			<average value="7.33473" />
+			<bayesaverage value="6.64986" />			<stddev value="1.3763" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2011-04-08 17:48:41" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="10272" subtype="boardgame" collid="5475329">
+	<name sortindex="1">Thirty Years War Quad (second edition)</name>
+		<yearpublished>1995</yearpublished>			<image>//cf.geekdo-images.com/images/pic122352.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic122352_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="237" >
+				<rating value="7.5">			<usersrated value="87" />			<average value="6.82701" />
+			<bayesaverage value="5.65089" />			<stddev value="1.4321" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2007-10-05 10:48:17" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="2748" subtype="boardgame" collid="5472230">
+	<name sortindex="1">Thirty Years War: Europe in Agony, 1618-1648</name>
+		<yearpublished>2001</yearpublished>			<image>//cf.geekdo-images.com/images/pic32860.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic32860_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="360"																	maxplaytime="360"																	playingtime="360"																	numowned="1127" >
+				<rating value="8">			<usersrated value="539" />			<average value="6.76664" />
+			<bayesaverage value="6.00679" />			<stddev value="1.65501" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2007-10-04 13:42:14" />
+	<numplays>0</numplays>			<comment>Un magnifico juego que no tiene una justa valoracion. Quizas se deba a que al jugador debe interesarle la ambientacion historica para disfrutarlo plenamente.
+
+Es cierto que hay algunos aspectos que no me terminan de convencer, como el escaso aliciente para jugar muchos eventos y las reglas de pago a tropas. Mas grave es el hecho de que el mapa y las reglas permiten destruir ejercitos enteros con relativa facilidad de forma un tanto exagerada (no dejandoles espacios de retirada). Pero en cualquier caso es un excelente wargame.
+
+Es importante descargarse la ultima version de las reglas (en ingles) y algunas erratas adicionales para jugar correctamente.</comment>				</item>
+		<item objecttype="thing" objectid="14996" subtype="boardgame" collid="23474658">
+	<name sortindex="1">Ticket to Ride: Europe</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic66668.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic66668_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="30"																	maxplaytime="60"																	playingtime="60"																	numowned="32723" >
+				<rating value="7">			<usersrated value="27478" />			<average value="7.59419" />
+			<bayesaverage value="7.49011" />			<stddev value="1.19599" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-09-03 04:02:27" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="54" subtype="boardgame" collid="9384441">
+	<name sortindex="1">Tikal</name>
+		<yearpublished>1999</yearpublished>			<image>//cf.geekdo-images.com/images/pic178078.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic178078_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="14155" >
+				<rating value="8">			<usersrated value="12247" />			<average value="7.35043" />
+			<bayesaverage value="7.22571" />			<stddev value="1.19246" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-11-12 10:23:05" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="54" subtype="boardgame" collid="15452841">
+	<name sortindex="1">Tikal</name>
+		<yearpublished>1999</yearpublished>			<image>//cf.geekdo-images.com/images/pic178078.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic178078_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="14155" >
+				<rating value="7.5">			<usersrated value="12247" />			<average value="7.35043" />
+			<bayesaverage value="7.22571" />			<stddev value="1.19246" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2012-04-08 17:04:13" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="38713" subtype="boardgame" collid="16140903">
+	<name sortindex="1">Time&#039;s Up! Edición Amarilla</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic393663.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic393663_t.jpg</thumbnail>
+		<stats minplayers="4"																	maxplayers="12"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="604" >
+				<rating value="8">			<usersrated value="371" />			<average value="7.48717" />
+			<bayesaverage value="6.163" />			<stddev value="1.30441" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-10 06:29:46" />
+	<numplays>0</numplays>			<comment>One of the best party games. I have enjoyed many unforgettable sessions.</comment>				</item>
+		<item objecttype="thing" objectid="12333" subtype="boardgame" collid="5475356">
+	<name sortindex="1">Twilight Struggle</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic361592.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic361592_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="27969" >
+				<rating value="7.5">			<usersrated value="21228" />			<average value="8.3208" />
+			<bayesaverage value="8.20082" />			<stddev value="1.6453" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2010-11-12 19:03:06" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="18748" subtype="boardgame" collid="7906797">
+	<name sortindex="1">Unhappy King Charles!	</name>
+		<yearpublished>2008</yearpublished>			<image>//cf.geekdo-images.com/images/pic407727.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic407727_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="240"																	maxplaytime="240"																	playingtime="240"																	numowned="1431" >
+				<rating value="8">			<usersrated value="574" />			<average value="7.70001" />
+			<bayesaverage value="6.44552" />			<stddev value="1.39469" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-02-10 10:30:07" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="94" subtype="boardgame" collid="9384443">
+	<name sortindex="1">Union Pacific</name>
+		<yearpublished>1999</yearpublished>			<image>//cf.geekdo-images.com/images/pic226392.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic226392_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="6"																	minplaytime="90"																	maxplaytime="90"																	playingtime="90"																	numowned="3756" >
+				<rating value="8.5">			<usersrated value="3763" />			<average value="7.26434" />
+			<bayesaverage value="6.97845" />			<stddev value="1.31546" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-11-12 10:23:26" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="9609" subtype="boardgame" collid="5419267">
+	<name sortindex="1">War of the Ring (first edition)</name>
+		<yearpublished>2004</yearpublished>			<image>//cf.geekdo-images.com/images/pic725882.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic725882_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="10760" >
+				<rating value="9.9">			<usersrated value="8416" />			<average value="7.84426" />
+			<bayesaverage value="7.62384" />			<stddev value="1.6004" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-03-06 17:09:07" />
+	<numplays>0</numplays>			<comment>&quot;Guerra del Anillo&quot; es sin lugar a dudas un magnifico juego de estrategia. Destaca la calidad de los componentes, sobre todo el precioso mapa de la Tierra Media y las estupendas miniaturas.
+
+Pero mas alla de esa cuidada presentacion, que tambien podemos encontrar en otros juegos con una mecanica semejante a la del &quot;Risk&quot;, estamos ante un verdadero juego de estrategia. Los disenadores han logrado transmitir el sabor de &quot;El Senor de los Anillos&quot; al juego, y han creado un reglamento que, sin ser demasiado complicado, logra que el juego tenga una notable profundidad.
+
+A destacar, sin duda, la elegante forma en que se ha resuelto el viaje de la Compania del Anillo hacia el Monte del Destino, y la interaccion de los Companeros que la van abandonando (Gandalf, Trancos, Gimli, Legolas...) con la diplomacia y las operaciones militares.
+
+Las cartas son otro gran hallazgo, ya que contribuyen a dar sabor a cada partida, y tienen un doble uso, como eventos o como cartas de combate.
+
+En definitiva: un gran juego que merece la pena, y que no resulta tan caro en comparacion con otros juegos de estrategia, teniendo en cuenta la calidad y cantidad de componentes. El unico &quot;pero&quot; puede ser la duracion de una partida: hacen falta entre 4 y 5 horas para terminar una. Si eres fan de &quot;El Senor de los Anillos&quot;, y si te gustan los juegos de estrategia o quieres iniciarte en ellos, &quot;Guerra del Anillo&quot; es un titulo imprescindible.</comment>				</item>
+		<item objecttype="thing" objectid="115746" subtype="boardgame" collid="27534270">
+	<name sortindex="1">War of the Ring (second edition)</name>
+		<yearpublished>2012</yearpublished>			<image>//cf.geekdo-images.com/images/pic1215633.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1215633_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="150"																	maxplaytime="150"																	playingtime="150"																	numowned="6830" >
+				<rating value="9.8">			<usersrated value="4284" />			<average value="8.34356" />
+			<bayesaverage value="7.90177" />			<stddev value="1.57795" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-03-13 03:33:39" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="18034" subtype="boardgame" collid="5538626">
+	<name sortindex="1">War of the Ring: Battles of the Third Age</name>
+		<yearpublished>2006</yearpublished>			<image>//cf.geekdo-images.com/images/pic789658.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic789658_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="3515" >
+				<rating value="8">			<usersrated value="1287" />			<average value="8.0928" />
+			<bayesaverage value="7.11186" />			<stddev value="1.32156" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-10-05 04:23:22" />
+	<numplays>0</numplays>			<comment>Este juego en realidad incluye dos elementos diferentes:
+
+1) Expansión para Guerra del Anillo: Se compone de diversos personajes y reglas nuevas para añadir al juego básico: Galadriel, Balrog de Moria, Bárbol y los Ents, Corsarios de Umbar, máquinas de asedio, etc. Proporcionan cierta ventaja a los Pueblos Libres. Tras aplicar estas novedades dos o tres veces, decidí prescindir de ellos y jugar con el juego básico tal cual. Guerra del Anillo me parece un diseño perfecto, que no necesita aderezos, y parte de esos añadidos no acaban de convencerme.
+
+2) Batallas del Abismo de Helm y de Minas Tirith: Utilizando componentes de Guerra del Anillo y lo incluido en la expansión, tenemos un juego nuevo que recrea dos batallas. Tiene mecánicas inspiradas en el juego básico, pero introduce abundantes novedades. Sin alcanzar la genialidad del juego original, resulta divertido y hace que la expansión merezca la pena.</comment>				</item>
+		<item objecttype="thing" objectid="36887" subtype="boardgame" collid="15452763">
+	<name sortindex="1">Waterloo</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic412813.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic412813_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="854" >
+				<rating value="7">			<usersrated value="346" />			<average value="7.02486" />
+			<bayesaverage value="5.98183" />			<stddev value="1.48076" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-06-22 03:05:59" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="11265" subtype="boardgame" collid="5476051">
+	<name sortindex="1">Wellington</name>
+		<yearpublished>2005</yearpublished>			<image>//cf.geekdo-images.com/images/pic1525926.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1525926_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="4"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="1151" >
+				<rating value="6">			<usersrated value="536" />			<average value="6.9317" />
+			<bayesaverage value="6.10062" />			<stddev value="1.4513" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-11-07 06:39:50" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="25821" subtype="boardgame" collid="9384448">
+	<name sortindex="5">The Werewolves of Miller&#039;s Hollow</name>
+		<yearpublished>2001</yearpublished>			<image>//cf.geekdo-images.com/images/pic510856.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic510856_t.jpg</thumbnail>
+		<stats minplayers="8"																	maxplayers="18"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="8961" >
+				<rating value="9">			<usersrated value="6041" />			<average value="6.94667" />
+			<bayesaverage value="6.75236" />			<stddev value="1.6398" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-11-12 10:25:42" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="25821" subtype="boardgame" collid="15452792">
+	<name sortindex="5">The Werewolves of Miller&#039;s Hollow</name>
+		<yearpublished>2001</yearpublished>			<image>//cf.geekdo-images.com/images/pic510856.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic510856_t.jpg</thumbnail>
+		<stats minplayers="8"																	maxplayers="18"																	minplaytime="30"																	maxplaytime="30"																	playingtime="30"																	numowned="8961" >
+				<rating value="8.5">			<usersrated value="6041" />			<average value="6.94667" />
+			<bayesaverage value="6.75236" />			<stddev value="1.6398" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="1" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2015-10-31 07:25:49" />
+	<numplays>0</numplays>			<comment>With the suitable group, this game is just FUN!</comment>				</item>
+		<item objecttype="thing" objectid="1822" subtype="boardgame" collid="5658557">
+	<name sortindex="1">Wilderness War</name>
+		<yearpublished>2001</yearpublished>			<image>//cf.geekdo-images.com/images/pic96957.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic96957_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="180"																	maxplaytime="180"																	playingtime="180"																	numowned="2815" >
+				<rating value="5">			<usersrated value="1255" />			<average value="7.72017" />
+			<bayesaverage value="6.87551" />			<stddev value="1.32172" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2008-03-06 09:03:38" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="237" subtype="boardgame" collid="5475380">
+	<name sortindex="1">Wooden Ships &amp; Iron Men</name>
+		<yearpublished>1974</yearpublished>			<image>//cf.geekdo-images.com/images/pic3341.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic3341_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="60"																	maxplaytime="60"																	playingtime="60"																	numowned="3048" >
+				<rating value="7">			<usersrated value="1566" />			<average value="6.95903" />
+			<bayesaverage value="6.46088" />			<stddev value="1.30445" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2013-07-28 05:56:35" />
+	<numplays>0</numplays>			<comment>Al jugarlo se respiran la polvora y el salitre. Un juego estupendo que a despues de decadas sigue siendo un referente entre los wargames navales ambientados en la era de los grandes buques de linea.
+
+El reglamento es sencillo, pero transmite bien las peculiaridades del combate naval en el siglo XVIII.
+
+Lo que menos me convence son las reglas de abordaje, ya que son un tanto irreales y hacen que en ocasiones los jugadores busquen la lucha cuerpo a cuerpo en lugar de las maniobras y el duelo artillero, mas divertido.
+
+Ademas, el sistema no permite llevar con comodidad mas de dos o tres barcos por jugador, lo que impide jugar los escenarios historicos mas grandes, a menos que se reunan una docena de jugadores.
+</comment>				</item>
+		<item objecttype="thing" objectid="3353" subtype="boardgame" collid="5475379">
+	<name sortindex="1">World War II: Barbarossa to Berlin</name>
+		<yearpublished>2002</yearpublished>			<image>//cf.geekdo-images.com/images/pic152334.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic152334_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="2"																	minplaytime="420"																	maxplaytime="420"																	playingtime="420"																	numowned="1902" >
+				<rating value="8">			<usersrated value="911" />			<average value="7.23639" />
+			<bayesaverage value="6.43579" />			<stddev value="1.56518" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2007-10-22 10:16:17" />
+	<numplays>0</numplays>			<comment>La segunda incursion de Ted Raicer en los juegos de estrategia con cartas tras su brillante y exitoso &quot;Paths of Glory&quot;. Aqui adapta el sistema a la Segunda Guerra Mundial en Europa, a partir de la Operacion Barbarroja (ataque aleman a la URSS) en Junio de 1941.
+
+El juego es bueno, pero no tan redondo como su predecesor. Prueba de ello son los numerosos cambios en reglas, mapa y cartas que el autor ha introducido en la version publicada originalmente. En mi opinion la mayoria son correctos, pero algunos favorecen en exceso a los Aliados.
+
+Los principales problemas del juego derivan de la existencia de solo dos mazos de cartas (Paths of Glory tiene tres), lo que provoca un insuficiente reciclaje de eventos, y de la incapacidad del juego para simular correctamente algunos aspectos de la guerra: Norte de Africa, desembarcos aliados...
+
+No son problemas insalvables. El juego es excelente y esta bien equilibrado entre bandos. Creo que su puntuacion en BGG es demasiado baja.</comment>				</item>
+		<item objecttype="thing" objectid="27588" subtype="boardgame" collid="9384451">
+	<name sortindex="1">Zooloretto</name>
+		<yearpublished>2007</yearpublished>			<image>//cf.geekdo-images.com/images/pic187388.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic187388_t.jpg</thumbnail>
+		<stats minplayers="2"																	maxplayers="5"																	minplaytime="45"																	maxplaytime="45"																	playingtime="45"																	numowned="12669" >
+				<rating value="7.5">			<usersrated value="10573" />			<average value="6.89201" />
+			<bayesaverage value="6.77888" />			<stddev value="1.17278" />
+			<median value="0" />		</rating>
+			</stats>	<status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2009-11-12 10:26:03" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="41627" subtype="boardgame" collid="22126679">
+	<name sortindex="1">Zulus on the Ramparts!</name>
+		<yearpublished>2009</yearpublished>			<image>//cf.geekdo-images.com/images/pic1476731.jpg</image>
+		<thumbnail>//cf.geekdo-images.com/images/pic1476731_t.jpg</thumbnail>
+		<stats minplayers="1"																	maxplayers="1"																	minplaytime="25"																	maxplaytime="25"																	playingtime="25"																	numowned="1025" >
+				<rating value="7.5">			<usersrated value="455" />			<average value="7.38154" />
+			<bayesaverage value="6.20954" />			<stddev value="1.16858" />
+			<median value="0" />		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2014-02-08 18:26:47" />
+	<numplays>0</numplays>							</item>
+		
+</items>
