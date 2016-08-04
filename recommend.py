@@ -4,6 +4,7 @@
 """Collect data from MySQL database and use them"""
 
 import itertools
+import operator
 
 from scikits.crab.models import MatrixPreferenceDataModel
 from scikits.crab.metrics import pearson_correlation
@@ -133,6 +134,8 @@ def get_user_ratings_for_game():
 
 
 def show_user_ratings():
+    """Show ratings for a given user
+    """
     rsdbc = RSDBConnection()
     user_name = raw_input("Please enter your username\n")
     user_id = rsdbc.get_user_id(user_name)
@@ -144,10 +147,56 @@ def show_user_ratings():
     print "\n\n"
     rsdbc.finalize()
 
+def create_dict_with_group_ratings():
+    """Function that creates a dict with user ratings from our group
+    """
+    rsdbc = RSDBConnection()
+    menu = {}
+    menu['0'] = 'Add user to group'
+    menu['1'] = 'End'
+    user_ids = []
+    ratings = {}
+    game_ratings = {}
+    while(True):
+        options = menu.keys()
+        options.sort()
+        for entry in options:
+            print entry, menu[entry]
+        selection = raw_input("Please select: ")
+        if selection == '0':
+            user_name = raw_input("Please give the user name of existing user: ")
+            user_id = rsdbc.get_user_id(user_name)
+            user_ids.append(user_id)
+        elif selection == '1':
+            break
+        else:
+            print 'Wrong option!\n'
+        for user_id in user_ids:
+            rating = rsdbc.get_user_ratings(user_id)
+            ratings[user_id] = rating
+    rsdbc.finalize()
+    for user_id, game_dict in ratings.iteritems():
+        for game_id, rating in game_dict:
+            if game_id in game_ratings:
+                game_ratings[game_id] [user_id] = rating
+            else:
+                game_ratings[game_id] = {user_id:rating}
+    return game_ratings
+
+def merge_least_misery(user_id, ratings):
+    rsdbc = RSDBConnection()
+    individual_ratings = {}
+    for game_id, game_ratings in ratings.iteritems():
+        user_id_min_rating = min(game_ratings.iteritems(), key=operator.itemgetter(1))[0]
+        min_rating = game_ratings[user_id_min_rating]
+        individual_ratings[game_id] = min_rating
+    print individual_ratings
+    rsdbc.insert_user_ratings(user_id, individual_ratings)
+    rsdbc.finalize()
+
 def main():
     """Do the stuff
     """
-    rsdbc = RSDBConnection()
     menu = {}
     menu['0'] = 'Add new user'
     menu['1'] = 'Add ratings for games'
@@ -157,6 +206,7 @@ def main():
     menu['5'] = 'Quit'
 
     while True:
+        rsdbc = RSDBConnection()
         options = menu.keys()
         options.sort()
         for entry in options:
@@ -172,7 +222,20 @@ def main():
             user_name = raw_input("Give user name for counting recommendation :")
             recommendation =generate_individual_recommendation(user_name)
         elif selection == '3':
-            print '3'
+            group_ratings = create_dict_with_group_ratings()
+            group_name = raw_input("Please provide a name for your group: ")
+            user_id = rsdbc.add_user(group_name)
+            while not user_id:
+                group_name = raw_input(
+                    "This name isn't available. Choose another one: ")
+                user_id = rsdbc.add_user(group_name)
+            rsdbc.finalize()
+            rsdbc = RSDBConnection()
+            print user_id
+            print "\n LEAST MISERY\n"
+            merge_least_misery(user_id, group_ratings)
+            print "\nI'M RECOMMENDING\n"
+            recommendation = generate_individual_recommendation(group_name)
         elif selection == '4':
             show_user_ratings()
         elif selection == '5':
@@ -180,7 +243,7 @@ def main():
             break
         else:
             print "Unknown option selected!\n"
-    rsdbc.finalize()
+        rsdbc.finalize()
 
 
 if __name__ == "__main__":
