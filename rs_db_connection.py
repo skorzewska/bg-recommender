@@ -376,6 +376,36 @@ class RSDBConnection:
         return [(int(item[0]), item[1].encode('utf-8'))
                 for item in self.cursor]
 
+    def get_game_full_name(self, user_id, name):
+        """Return a list of games not rated by the user
+        and where name is like a name given by a user
+        """
+        self.cursor.execute("""
+            select id, name from games
+            where id in (
+                select game_id from gameratings
+                group by game_id
+                having count(user_id) > 20)
+            and id not in (
+                select game_id from gameratings
+                where user_id = %s)
+            and name like %s
+            order by noofratings desc
+        """, (user_id,name,))
+        return [(int(item[0]), item[1].encode('utf-8'))
+                for item in self.cursor]
+
+    def get_user_ratings(self, user_id):
+        """Return a games rated by the user
+        """
+        self.cursor.execute("""
+            select game_id, rating from gameratings
+            where user_id=%s
+            order by rating desc
+        """, (user_id,))
+        return [(int(item[0]), item[1])
+                for item in self.cursor]
+
     def finalize(self):
         """Close what __init__ opened"""
         self.cnx.commit()

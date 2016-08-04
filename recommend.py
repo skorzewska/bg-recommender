@@ -76,23 +76,85 @@ def generate_individual_recommendation(user_name):
     recommender = build_recommender(data)
     print "Recommending items..."
     recommendation = recommender.recommend(user_id)
-    print recommendation
     print "Recommendations:\nprob\tgame"
-    for game_id, prob in recommendation[:25]:
+    for game_id, prob in recommendation[:50]:
         game = rsdbc.get_game_name(game_id)
         print '{:.3f}\t{}'.format(prob, game)
     rsdbc.finalize()
     return recommendation
 
+def get_user_ratings_for_game():
+    """Function for getting ratings of chosen game_name
+    """
+    rsdbc = RSDBConnection()
+    ratings = {}
+    menu = {}
+    menu['0'] = 'End.'
+    menu['1'] = 'Add rating'
+    user_name = raw_input("Give your username\n")
+    user_id = rsdbc.get_user_id(user_name)
+    while(True):
+        options = menu.keys()
+        options.sort()
+        for entry in options:
+            print entry, menu[entry]
+        selection = raw_input("Please select: ")
+        if selection == '0':
+            rsdbc.finalize()
+            return user_id, ratings
+        elif selection == '1':
+            game_name = raw_input("Please give the name of the game you want to rate: ")
+            game_name = game_name.lower()
+            game_name = '%' + game_name + '%'
+            games = rsdbc.get_game_full_name(user_id, game_name)
+            print("\nPlease rate the game you meant).\n"
+                "If it's not the one you meant, just hit ENTER.\n"
+                "If you want to quit, just write '-1' and ENTER\n")
+            rating = 100
+            i = 0
+            while (rating != 0):
+                if len(games) == 0:
+                    print 'Cannot find the game!\n'
+                    break
+                rating = raw_input('"{}": '.format(games[i][1]))
+                if rating:
+                    rating = float(rating)
+                    if rating< 1:
+                        rating = 1.0
+                    elif rating > 10:
+                        rating= 10.0
+                    ratings[games[i][0]] = rating
+                if i +1 < len(games):
+                    i += 1
+                else:
+                    break
+            else:
+                print "Unknown option selected!\n"
+
+
+def show_user_ratings():
+    rsdbc = RSDBConnection()
+    user_name = raw_input("Please enter your username\n")
+    user_id = rsdbc.get_user_id(user_name)
+    ratings = rsdbc.get_user_ratings(user_id)
+    print '\n\nrating\t\t game'
+    for elem in ratings:
+        game_name = rsdbc.get_game_name(elem[0])
+        print '{1}\t\t {0}'.format(game_name, elem[1])
+    print "\n\n"
+    rsdbc.finalize()
+
 def main():
     """Do the stuff
     """
+    rsdbc = RSDBConnection()
     menu = {}
     menu['0'] = 'Add new user'
     menu['1'] = 'Add ratings for games'
     menu['2'] = 'Generate individual recommendation'
     menu['3'] = 'Generate group recommendation'
-    menu['4'] = 'Quit'
+    menu['4'] = 'Show me my ratings'
+    menu['5'] = 'Quit'
 
     while True:
         options = menu.keys()
@@ -102,21 +164,23 @@ def main():
 
         selection = raw_input("Please select: ")
         if selection == '0':
-            print '0'
             add_new_user()
         elif selection == '1':
-            print '1'
+            user_id, ratings = get_user_ratings_for_game()
+            rsdbc.insert_user_ratings(user_id, ratings)
         elif selection == '2':
-            user_name = raw_input("Give user name for counting recommendation ")
+            user_name = raw_input("Give user name for counting recommendation :")
             recommendation =generate_individual_recommendation(user_name)
-            print '2'
         elif selection == '3':
             print '3'
         elif selection == '4':
-            print '\n\n\nBye!'
+            show_user_ratings()
+        elif selection == '5':
+            print '\n\nBye!'
             break
         else:
             print "Unknown option selected!\n"
+    rsdbc.finalize()
 
 
 if __name__ == "__main__":
