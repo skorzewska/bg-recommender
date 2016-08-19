@@ -359,6 +359,10 @@ class RSDBConnection:
             (str(game_id),))
         return [item[0].encode('utf-8') for item in self.cursor][0]
 
+    def get_numplayers(self, game_id):
+        self.cursor.execute("select minplayers, maxplayers from games where id=%s;", (str(game_id),))
+        return [(int(item[0]), int(item[1])) for item in self.cursor][0]
+
     def suggest_games_to_rate(self, user_id):
         """Return a game not rated by the user
         """
