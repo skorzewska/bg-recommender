@@ -82,7 +82,7 @@ def generate_individual_recommendation(user_name):
     print "Recommending items..."
     recommendation = recommender.recommend(user_id)
     #print "Recommendations:\nprob\tgame"
-    for game_id, prob in recommendation[:50]:
+    for game_id, prob in recommendation:
         #game = rsdbc.get_game_name(game_id)
         #print '{:.3f}\t{}'.format(prob, game)
         rec_file.write('{};{}\n'.format(game_id, prob))
@@ -119,13 +119,16 @@ def read_recommendation_from_file(user_name):
 def get_user_ratings_for_game():
     """Function for getting ratings of chosen game_name
     """
-    rsdbc = RSDBConnection()
     ratings = {}
     menu = {}
     menu['0'] = 'End.'
     menu['1'] = 'Add rating'
     user_name = raw_input("Give your username\n")
+
+    rsdbc = RSDBConnection()
     user_id = rsdbc.get_user_id(user_name)
+    rsdbc.finalize()
+
     while(True):
         options = menu.keys()
         options.sort()
@@ -133,13 +136,16 @@ def get_user_ratings_for_game():
             print entry, menu[entry]
         selection = raw_input("Please select: ")
         if selection == '0':
-            rsdbc.finalize()
             return user_id, ratings
         elif selection == '1':
             game_name = raw_input("Please give the name of the game you want to rate: ")
             game_name = game_name.lower()
             game_name = '%' + game_name + '%'
+
+            rsdbc = RSDBConnection()
             games = rsdbc.get_game_full_name(user_id, game_name)
+            rsdbc.finalize()
+
             print("\nPlease rate the game you meant).\n"
                 "If it's not the one you meant, just hit ENTER.\n"
                 "If you want to quit, just write '-1' and ENTER\n")
@@ -207,6 +213,7 @@ def create_dict_with_group_ratings():
             rating = rsdbc.get_user_ratings(user_id)
             ratings[user_id] = rating
     rsdbc.finalize()
+
     for user_id, game_dict in ratings.iteritems():
         for game_id, rating in game_dict:
             if game_id in game_ratings:
@@ -237,6 +244,7 @@ def create_dict_with_group_recommendations():
         else:
             print 'Wrong option!\n'
         for user_name in user_names:
+            print 'reading from file ', user_name
             single_recommendation = read_recommendation_from_file(user_name)
             for game_id, prob in single_recommendation:
                 if game_id in game_ratings:
@@ -288,21 +296,39 @@ def merge_rec_least_misery(ratings):
     """For each game get minimum from users' from group rating
     """
     individual_ratings = {}
+    group_name = ''
     for game_id, game_ratings in ratings.iteritems():
         user_id_min_rating = min(game_ratings.iteritems(), key=operator.itemgetter(1))[0]
+        group_name = "_".join(game_ratings.keys())
         min_rating = game_ratings[user_id_min_rating]
         individual_ratings[game_id] = min_rating
-    print individual_ratings
+    sorted_recommendations = sorted(individual_ratings.items(), key=operator.itemgetter(1), reverse=True)
+    print sorted_recommendations
+    with open('recommendations/'+group_name+'_min', 'w') as save_file:
+        rsdbc = RSDBConnection()
+        for game_id, recommendation in sorted_recommendations:
+            game_name = rsdbc.get_game_name(game_id)
+            save_file.write('{};{}\n'.format(recommendation, game_name))
+        rsdbc.finalize()
 
 def merge_rec_max(ratings):
     """For each game get maximum from users' from group rating
     """
     individual_ratings = {}
+    group_name = ''
     for game_id, game_ratings in ratings.iteritems():
         user_id_max_rating = max(game_ratings.iteritems(), key=operator.itemgetter(1))[0]
+        group_name = "_".join(game_ratings.keys())
         max_rating = game_ratings[user_id_max_rating]
         individual_ratings[game_id] = max_rating
-    print individual_ratings
+    sorted_recommendations = sorted(individual_ratings.items(), key=operator.itemgetter(1), reverse=True)
+    print sorted_recommendations
+    with open('recommendations/'+group_name+'_max', 'w') as save_file:
+        rsdbc = RSDBConnection()
+        for game_id, recommendation in sorted_recommendations:
+            game_name = rsdbc.get_game_name(game_id)
+            save_file.write('{};{}\n'.format(recommendation, game_name))
+        rsdbc.finalize()
 
 def merge_rec_avg(ratings):
     """For each game get average from users' from group rating
@@ -314,14 +340,22 @@ def merge_rec_avg(ratings):
         group_name = "_".join(game_ratings.keys())
         avg_rating = sum(ratings)/len(ratings)
         individual_ratings[game_id] = avg_rating
-    print individual_ratings
-    # with open('recommendations/'+group_name+'_avg', 'w') as save_file:
-    #     for
-    #     save_file
+    sorted_recommendations = sorted(individual_ratings.items(), key=operator.itemgetter(1), reverse=True)
+    print sorted_recommendations
+    with open('recommendations/'+group_name+'_avg', 'w') as save_file:
+        rsdbc = RSDBConnection()
+        for game_id, recommendation in sorted_recommendations:
+            game_name = rsdbc.get_game_name(game_id)
+            save_file.write('{};{}\n'.format(recommendation, game_name))
+        rsdbc.finalize()
 
 def check_numplayers(numplayers, game_id):
     rsdbc = RSDBConnection()
     minplayers, maxplayers = rsdbc.get_numplayers(game_id)
+    print 'gameid ', game_id
+    print 'numplayers ', numplayers
+    print 'minplayers ', minplayers
+    print 'maxplayers ', maxplayers
     rsdbc.finalize()
     return minplayers <= numplayers and numplayers <= maxplayers
 
@@ -341,14 +375,17 @@ def make_group_recommendation():
             print entry, menu_rec[entry]
         selection = raw_input("Please select: ")
         if selection == '2':
-            rsdbc = RSDBConnection()
             group_ratings, numplayers = create_dict_with_group_ratings()
             group_name = raw_input("Please provide a name for your group: ")
+
+            rsdbc = RSDBConnection()
             user_id = rsdbc.add_user(group_name)
-            while not user_id:
-                group_name = raw_input(
-                    "This name isn't available. Choose another one: ")
-                user_id = rsdbc.add_user(group_name)
+            # while not user_id:
+            #     group_name = raw_input(
+            #         "This name isn't available. Choose another one: ")
+            #     user_id = rsdbc.add_user(group_name)
+            rsdbc.finalize()
+
             menu_user_approach = {}
             menu_user_approach['0'] = 'Back'
             menu_user_approach['1'] = 'User Minimum strategy '
@@ -356,8 +393,6 @@ def make_group_recommendation():
             menu_user_approach['3'] = 'User Avg strategy '
             options2 = menu_user_approach.keys()
             options2.sort()
-
-            rsdbc.finalize()
             for entry2 in options2:
                 print entry2, menu_user_approach[entry2]
             selection2 = raw_input("Please select: ")
@@ -404,16 +439,20 @@ def make_group_recommendation():
 def generate_and_print_recommendation(group_name, numplayers):
     """Function for generating and printing recommendation
     """
-    rsdbc = RSDBConnection()
     print "\nI'M RECOMMENDING\n"
     recommendation = read_recommendation_from_file(group_name)
-    for game_id, prob in recommendation[:50]:
-        if check_numplayers(game_id, numplayers):
-            game = rsdbc.get_game_name(game_id)
-            print '{:.3f}\t{}'.format(prob, game)
-            with open('recommendations/'+group_name + '_result') as save_file:
+    print 'mam rekomendacje\n\n'
+    with open('recommendations/'+group_name + '_result', 'w') as save_file:
+        for game_id, prob in recommendation:
+            print 'jestem w forze\n numplayers '
+            print numplayers
+            if check_numplayers(numplayers, game_id):
+                print 'sprawdzam numplayers \n'
+                rsdbc = RSDBConnection()
+                game = rsdbc.get_game_name(game_id)
+                rsdbc.finalize()
+                print '{:.3f}\t{}'.format(prob, game)
                 save_file.write('{} ;{}\n'.format(prob, game))
-    rsdbc.finalize()
 
 def main():
     """Do the stuff
@@ -427,7 +466,6 @@ def main():
     menu['0'] = 'Quit'
 
     while True:
-        rsdbc = RSDBConnection()
         options = menu.keys()
         options.sort()
         for entry in options:
@@ -438,15 +476,22 @@ def main():
             add_new_user()
         elif selection == '1':
             user_id, ratings = get_user_ratings_for_game()
+
+            rsdbc = RSDBConnection()
             rsdbc.insert_user_ratings(user_id, ratings)
+            rsdbc.finalize()
+
         elif selection == '2':
             user_name = raw_input("Give user name for counting recommendation: ")
             recommendation = read_recommendation_from_file(user_name)
+
+            rsdbc = RSDBConnection()
             for game_id, prob in recommendation[:50]:
                  game = rsdbc.get_game_name(game_id)
                  print '{:.3f}\t{}'.format(prob, game)
-        elif selection == '3':
             rsdbc.finalize()
+
+        elif selection == '3':
             make_group_recommendation()
         elif selection == '4':
             show_user_ratings()
@@ -455,7 +500,6 @@ def main():
             break
         else:
             print "Unknown option selected!\n"
-        rsdbc.finalize()
 
 
 if __name__ == "__main__":
