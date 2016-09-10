@@ -218,8 +218,10 @@ def main(number_of_groups, max_group_size=4):
     ]
 
     user_groups = []
+    db_conn = RSDBConnection(db_conn_conf)
     for _ in range(number_of_groups):
         user_groups.append(db_conn.get_random_user_group(max_group_size))
+    db_conn.finalize()
 
     # user_groups = [[113, 145]]
 
