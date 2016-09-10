@@ -217,11 +217,11 @@ def main(number_of_groups, max_group_size=4):
         recommend_merge_recommendations(min),
     ]
 
-    # user_groups = []
-    # for _ in range(number_of_groups):
-    #     user_groups.append(db_conn.get_random_user_group(max_group_size))
+    user_groups = []
+    for _ in range(number_of_groups):
+        user_groups.append(db_conn.get_random_user_group(max_group_size))
 
-    user_groups = [[113, 145]]
+    # user_groups = [[113, 145]]
 
     for user_group in user_groups:
         db_conn = RSDBConnection(db_conn_conf)
