@@ -4,17 +4,15 @@
 """Recommender system database connection handler"""
 
 from collections import defaultdict
+import operator
 import os
+import random
 import sys
 
 import xml.etree.ElementTree as ET
-import codecs
 
 import mysql.connector
 from mysql.connector import errorcode
-
-import os
-import operator
 
 
 MYSQL_CONNECTION_DEFAULT_CONFIG = {
@@ -334,6 +332,24 @@ class RSDBConnection:
             "select id from users where name = %s",
             (user_name,))
          return [item[0] for item in self.cursor][0]
+
+    def get_user_name(self, user_id):
+         self.cursor.execute(
+            "select name from users where id = %s",
+            (user_id,))
+         return [item[0] for item in self.cursor][0]
+
+    def get_random_user(self):
+        self.cursor.execute(
+            "select id from users order by rand() limit 1")
+        return [item[0] for item in self.cursor][0]
+
+    def get_random_user_group(self, max_group_size):
+        group_size = random.randint(2, max_group_size)
+        self.cursor.execute(
+            "select id from users order by rand() limit %s",
+            (group_size,))
+        return [item[0] for item in self.cursor]
 
     def add_user(self, user_name):
         """Try to add user with given name.

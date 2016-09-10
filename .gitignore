@@ -1,3 +1,8 @@
-dane
-test_data
 *.pyc
+*.swo
+*.swp
+*.tgz
+dane
+eval
+recommendations
+test_data
